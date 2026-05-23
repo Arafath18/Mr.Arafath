@@ -1,3 +1,5 @@
+<h1 align="center">!! THIS IS IN PROGRESS NOT YET COMPLETED !!</h1>
+
 <h1 align="center">Hi 👋, I'm Arafath</h1>
 <h3 align="center">Full Stack Developer | AI Enthusiast | Open Source Learner</h3>
 
