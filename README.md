@@ -11,10 +11,9 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **AI + Full Stack Development**
+- 🌱 Currently learning **Full Stack Development**
 - 💻 Building modern web applications
-- ⚡ Love working with React, Node.js, Python
-- 🎯 Goal: Become a world-class software engineer
+- ⚡ Love working with MERN, MEAN..
 
 ---
 
@@ -29,8 +28,8 @@
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="https://twitter.com/YOUR-TWITTER" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=twitter" height="40" />
+<a href="https://gmail.com/YOUR-GMAIL" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 </p>
 
@@ -39,17 +38,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,vscode,tailwind" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Arafath18&show_icons=true&theme=tokyonight" height="180em" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arafath18&layout=compact&theme=tokyonight" height="180em" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,sql,php" />
 </p>
 
 ---
@@ -72,25 +61,19 @@
 
 ## 📌 Featured Projects
 
-### 🚀 Project 1
-🔗 https://github.com/Arafath18/project-name
+### 🚀 Tech-Buzz-Mobile-Store-E-Commerce-Website
+🔗 [https://github.com/Arafath18/project-name](https://github.com/Arafath18/Tech-Buzz-Mobile-Store-E-Commerce-Website/tree/main/techbuzz-main)
 
-### 🤖 AI Project
-🔗 https://github.com/Arafath18/project-name
+### 🤖 Diabetic-prediction
+🔗 [https://github.com/Arafath18/project-name](https://github.com/Arafath18/Diabetic-prediction)
 
 ### 🌐 Portfolio Website
-🔗 https://github.com/Arafath18/project-name
+🔗 [https://github.com/Arafath18/project-name](https://github.com/Arafath18/portfolio)
 
 ---
 
 ## 👀 Profile Views
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=Arafath18&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+<img src="https://komarev.com/ghpvc/?username=Arafath18&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
