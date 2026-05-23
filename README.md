@@ -1,139 +1,94 @@
+<h1 align="center">Hi 👋, I'm Arafath</h1>
+<h3 align="center">Full Stack Developer | AI Enthusiast | Open Source Learner</h3>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hey, I'm Arafath
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Creative+Problem+Solver;Open+Source+Enthusiast;Building+Cool+Things+with+Code" />
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Automation+Builder;React+%7C+Node+%7C+Python;Always+Learning+New+Things" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-```yaml
-name: Arafath
-location: India
-focus:
-  - Full Stack Development
-  - AI & Automation
-  - Open Source
-  - UI/UX Experiences
-currently_learning:
-  - Advanced Backend Systems
-  - Cloud & DevOps
-  - AI Integrations
-fun_fact: "I turn coffee ☕ into scalable apps 🚀"
-```
+- 🌱 Currently learning **AI + Full Stack Development**
+- 💻 Building modern web applications
+- ⚡ Love working with React, Node.js, Python
+- 🎯 Goal: Become a world-class software engineer
 
 ---
 
-# 🌌 Digital Universe
+## 🌐 Connect With Me
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Arafath18&theme=algolia&row=1&column=7&margin-w=10&margin-h=10" />
-
-</div>
-
----
-
-# ⚡ Tech Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,python,java,c,cpp,tailwind,firebase,git,github,vscode,docker,linux" />
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Arafath18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arafath18&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arafath18&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-# 🧠 Currently Building
-
-- 🚀 Scalable Full Stack Projects
-- 🤖 AI-powered applications
-- 🌍 Open-source contributions
-- 🎨 Creative UI Experiences
-- ⚡ Automation tools
-
----
-
-# 🎯 2026 Goals
-
-- 🔥 Contribute to major open source projects
-- 📱 Build production-ready SaaS apps
-- 🌎 Collaborate with developers worldwide
-- 🧠 Master AI integrations
-- 🚀 Grow developer community presence
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Arafath18">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<p align="left">
+<a href="https://github.com/Arafath18" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
-<a href="https://linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="https://instagram.com">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://twitter.com/YOUR-TWITTER" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=twitter" height="40" />
 </a>
-
-<a href="mailto:yourmail@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+</p>
 
 ---
 
-# 🐍 Contribution Snake
+## 🛠️ Tech Stack
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Arafath18/Arafath18/output/snake.svg" alt="snake animation" />
-
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,vscode,tailwind" />
+</p>
 
 ---
 
-# 💡 Quote of the Day
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Arafath18&show_icons=true&theme=tokyonight" height="180em" />
 
-> "Code is not just syntax. It's creativity engineered into reality."
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arafath18&layout=compact&theme=tokyonight" height="180em" />
+</p>
 
 ---
 
-<div align="center">
+## 🔥 GitHub Streak
 
-### ⭐ Thanks for visiting my profile ⭐
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Arafath18&theme=tokyonight" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
+---
 
-</div>
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Arafath18&theme=tokyonight&row=1&column=7" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🚀 Project 1
+🔗 https://github.com/Arafath18/project-name
+
+### 🤖 AI Project
+🔗 https://github.com/Arafath18/project-name
+
+### 🌐 Portfolio Website
+🔗 https://github.com/Arafath18/project-name
+
+---
+
+## 👀 Profile Views
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Arafath18&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
